@@ -1,0 +1,6 @@
+c:\users\tecnico\documents\visual studio 2015\Projects\controleHospi\controleHospi\bin\Debug\controleHospi.exe.config
+c:\users\tecnico\documents\visual studio 2015\Projects\controleHospi\controleHospi\obj\Debug\controleHospi.csprojResolveAssemblyReference.cache
+c:\users\tecnico\documents\visual studio 2015\Projects\controleHospi\controleHospi\bin\Debug\controleHospi.exe
+c:\users\tecnico\documents\visual studio 2015\Projects\controleHospi\controleHospi\bin\Debug\controleHospi.pdb
+c:\users\tecnico\documents\visual studio 2015\Projects\controleHospi\controleHospi\obj\Debug\controleHospi.exe
+c:\users\tecnico\documents\visual studio 2015\Projects\controleHospi\controleHospi\obj\Debug\controleHospi.pdb
